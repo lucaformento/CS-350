@@ -4,10 +4,14 @@ Portfolio artifacts from my CS-350 course at SNHU, built on a Raspberry Pi 4B ru
 
 ## Artifacts
 
-| Folder | What it is |
-|---|---|
-| `Final Project - Smart Thermostat/` | `Thermostat.py`, the state machine diagram (PDF), and the hardware architecture report (DOCX) |
-| `Milestone Three - Morse Code/` | `Milestone3.py` and its state machine diagram (PDF) |
+**Final Project: Smart Thermostat**
+- `Thermostat.py`: the thermostat program
+- `Thermostat State Machine - Luca Formento.pdf`: the state machine diagram
+- `CS350 Final Project Report - Luca Formento.docx`: the hardware architecture report
+
+**Milestone Three: Morse Code**
+- `Milestone3.py`: the Morse code program
+- `Milestone Three State Machine - Luca Formento.pdf`: the state machine diagram
 
 ## Reflection
 
